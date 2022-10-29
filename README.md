@@ -1,5 +1,5 @@
 # Zoom Absentees Finder Made with Python
-## Converted to exe
+## py Converted to exe
 [Link for exe](https://github.com/vigneshnagavel/zoom_absentees_finder/raw/main/Absentees%20finder%20-%20NV.exe)
 #Steps
 ***
